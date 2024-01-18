@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-
-
-=======
-toi la tradev
->>>>>>> tradev
+toi la master
